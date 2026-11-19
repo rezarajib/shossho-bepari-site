@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "হাবিল স্টোর", "owner": "হাবিল", "liters": 60, "totalBill": 14700, "paid": 11000, "due": 3700 },
+  { "id": 2, "name": "সাহেবআলী ট্রেডার্স", "owner": "সাহেবআলী", "liters": 80, "totalBill": 19600, "paid": 19600, "due": 0 },
+  { "id": 3, "name": "সর্বেশ ভ্যারাইটিজ", "owner": "সর্বেশ", "liters": 40, "totalBill": 9800, "paid": 7000, "due": 2800 },
+  { "id": 4, "name": "সোনামিয়া স্টোর", "owner": "সোনামিয়া", "liters": 50, "totalBill": 12250, "paid": 10000, "due": 2250 },
+  { "id": 5, "name": "সোবেদআলী এন্টারপ্রাইজ", "owner": "সোবেদআলী", "liters": 70, "totalBill": 17150, "paid": 15000, "due": 2150 },
+  { "id": 6, "name": "আয়বুল্লা স্টোর", "owner": "আয়বুল্লা", "liters": 45, "totalBill": 11025, "paid": 11025, "due": 0 },
+  { "id": 7, "name": "কামরুল জেনারেল স্টোর", "owner": "কামরুল", "liters": 55, "totalBill": 13475, "paid": 9500, "due": 3975 }
+]

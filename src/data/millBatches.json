@@ -1,0 +1,50 @@
+[
+  {
+    "id": "batch-101",
+    "batchCode": "SB-OIL-01",
+    "millType": "নিজস্ব সরিষা মিল",
+    "day": "শনিবার (সাপ্তাহিক ব্যাচ ১)",
+    "rawMaterial": "দেশি মাঘী ও রাই সরিষা",
+    "inputMaund": 15,
+    "inputKg": 600,
+    "outputPrimary": "২১০ লিটার খাঁটি সরিষার তেল",
+    "outputSecondary": "৩৭৫ কেজি (৯.৩৭ মণ) সরিষার খৈল",
+    "status": "সম্পন্ন ও গোডাউনে মজুত"
+  },
+  {
+    "id": "batch-102",
+    "batchCode": "SB-OIL-02",
+    "millType": "নিজস্ব সরিষা মিল",
+    "day": "মঙ্গলবার (সাপ্তাহিক ব্যাচ ২)",
+    "rawMaterial": "দেশি মাঘী সরিষা",
+    "inputMaund": 12,
+    "inputKg": 480,
+    "outputPrimary": "১৭০ লিটার খাঁটি সরিষার তেল",
+    "outputSecondary": "৩০০ কেজি (৭.৫ মণ) সরিষার খৈল",
+    "status": "৭ দোকানে সরবরাহের জন্য প্রস্তুত"
+  },
+  {
+    "id": "batch-103",
+    "batchCode": "SB-RICE-01",
+    "millType": "নিজস্ব ধান ও গম মিল",
+    "day": "বুধবার ব্যাচ",
+    "rawMaterial": "বাছাইকৃত মিনিকেট ও স্বর্ণা ধান",
+    "inputMaund": 40,
+    "inputKg": 1600,
+    "outputPrimary": "২৬ মণ ছাঁটা চাল",
+    "outputSecondary": "১২ মণ তুষ ও কুঁড়া (গোখাদ্য)",
+    "status": "সম্পন্ন ও বস্তাবন্দী"
+  },
+  {
+    "id": "batch-104",
+    "batchCode": "SB-WHEAT-01",
+    "millType": "নিজস্ব ধান ও গম মিল",
+    "day": "বৃহস্পতিবার ব্যাচ",
+    "rawMaterial": "শুকনো দেশি গম",
+    "inputMaund": 30,
+    "inputKg": 1200,
+    "outputPrimary": "২২ মণ খাঁটি লাল আটা",
+    "outputSecondary": "৭.৫ মণ গমের ভুসি (খামারি গোখাদ্য)",
+    "status": "চলমান মিলিং"
+  }
+]

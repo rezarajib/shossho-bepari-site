@@ -1,0 +1,9 @@
+[
+  { "id": "all", "label": "সব শস্য ও পণ্য", "icon": "🌾" },
+  { "id": "oil-seeds", "label": "খাঁটি তেল ও তৈলবীজ", "icon": "🫒" },
+  { "id": "grains", "label": "ধান, চাল ও গম", "icon": "🌾" },
+  { "id": "livestock-feed", "label": "খামারি গোখাদ্য", "icon": "🌽" },
+  { "id": "pulses-cash-crops", "label": "ডাল ও অর্থকরী ফসল", "icon": "🫘" },
+  { "id": "govt-seeds", "label": "সরকারি ধানের বীজ", "icon": "🌱" },
+  { "id": "fresh-local", "label": "মৌসুমি সবজি ও খাঁটি দুধ", "icon": "🥛" }
+]

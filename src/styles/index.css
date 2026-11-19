@@ -1,0 +1,46 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+
+@theme {
+  --font-sans: "Hind Siliguri", "Noto Sans Bengali", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    font-size: 16px;
+
+    @media (min-width: 64rem) {
+      font-size: 18px;
+    }
+  }
+
+  body {
+    @apply bg-slate-50 font-sans text-base leading-relaxed text-slate-900;
+  }
+}
+
+@layer components {
+  .catalog-search-shell {
+    width: min(100%, 400px);
+    max-width: 100%;
+  }
+
+  .cart-drawer-panel {
+    width: 100%;
+    max-width: 100vw;
+  }
+
+  @media (min-width: 40rem) {
+    .cart-drawer-panel {
+      width: min(100vw, 540px);
+    }
+  }
+
+  @media (min-width: 64rem) {
+    .cart-drawer-panel {
+      width: min(100vw, 600px);
+    }
+  }
+}

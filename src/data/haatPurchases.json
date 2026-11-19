@@ -1,0 +1,6 @@
+[
+  { "id": 1, "date": "আজকের হাট", "item": "দেশি মাঘী সরিষা", "maund": 18, "ratePerMaund": 3500, "total": 63000 },
+  { "id": 2, "date": "আজকের হাট", "item": "শুকনো ভুট্টা", "maund": 25, "ratePerMaund": 1350, "total": 33750 },
+  { "id": 3, "date": "আজকের হাট", "item": "সাদা ও কালো তিল", "maund": 8, "ratePerMaund": 5200, "total": 41600 },
+  { "id": 4, "date": "আজকের হাট", "item": "দেশি গম ও কালাই", "maund": 15, "ratePerMaund": 1700, "total": 25500 }
+]

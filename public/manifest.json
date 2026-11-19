@@ -1,0 +1,34 @@
+{
+  "short_name": "শস্য ব্যাপারী",
+  "name": "শস্য ব্যাপারী — Shossho Bepari Agro & Mills",
+  "description": "হাট থেকে মিল, খাঁটি শস্যে নির্ভেজাল ডিল — খাঁটি সরিষার তেল, চাল, গম, গোখাদ্য ও ডিজিটাল মিল খাতা",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#021b17",
+  "background_color": "#fbf9f4",
+  "categories": ["business", "shopping", "food"],
+  "shortcuts": [
+    {
+      "name": "মালিকের ডিজিটাল খাতা (ERP)",
+      "short_name": "ডিজিটাল খাতা",
+      "description": "সাপ্তাহিক হাট তহবিল ও ৭ দোকানের লেজার দেখুন",
+      "url": "/erp"
+    },
+    {
+      "name": "পাইকারি ও খামারি পোর্টাল",
+      "short_name": "পাইকারি অর্ডার",
+      "description": "মণ ও টন হিসেবে পাইকারি অর্ডার করুন",
+      "url": "/wholesale"
+    }
+  ]
+}
